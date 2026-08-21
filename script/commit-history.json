@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Santiago Lazcano Quiroga",
+    "commit": {
+      "date": "2026-08-21T18:51:49.000Z",
+      "message": "feat: Agregar saludo con Hola",
+      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 12,
+      "additions": 1,
+      "deletions": 11,
+      "date": "2026-08-21"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
