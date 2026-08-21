@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "209733bc219566777457fb23798d6411a6c0c103",
     "author": "Santiago Lazcano Quiroga",
     "commit": {
       "date": "2026-08-21T18:51:49.000Z",
       "message": "feat: Agregar saludo con Hola",
-      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/HEAD"
+      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/209733bc219566777457fb23798d6411a6c0c103"
     },
     "stats": {
       "total": 12,
@@ -17,5 +17,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Santiago Lazcano Quiroga",
+    "commit": {
+      "date": "2026-08-21T20:45:17.000Z",
+      "message": "feat: Agregar saludar por nombre",
+      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 35,
+      "additions": 21,
+      "deletions": 14,
+      "date": "2026-08-21"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
   }
 ]
