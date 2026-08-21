@@ -38,17 +38,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "ff3705b033c9e57df5ac95bf555443ac56323564",
     "author": "Santiago Lazcano Quiroga",
     "commit": {
       "date": "2026-08-21T21:30:26.000Z",
       "message": "feat: Agregar saludar de acuerdo a la hora",
-      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/HEAD"
+      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/ff3705b033c9e57df5ac95bf555443ac56323564"
     },
     "stats": {
       "total": 21,
       "additions": 16,
       "deletions": 5,
+      "date": "2026-08-21"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Santiago Lazcano Quiroga",
+    "commit": {
+      "date": "2026-08-21T22:39:17.000Z",
+      "message": "feat: Agregar saludar por genero",
+      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 14,
+      "deletions": 4,
       "date": "2026-08-21"
     },
     "coverage": 0,

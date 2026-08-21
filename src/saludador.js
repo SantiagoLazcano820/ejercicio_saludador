@@ -1,6 +1,13 @@
-function saludar(nombre = "", hora = 0) {
-  let saludo = "Hola";
+function saludar(nombre = "", hora = 0, genero = "") {
+  let prefijo = "";
+  const generoMayuscula = genero.toUpperCase();
+  if (generoMayuscula === "M") {
+    prefijo = "Sr. ";
+  } else if (generoMayuscula === "F") {
+    prefijo = "Sra. ";
+  }
 
+  let saludo = "Hola";
   if (hora >= 6 && hora < 12) {
     saludo = "Buenos Dias";
   } else if (hora >= 12 && hora < 19) {
@@ -10,7 +17,7 @@ function saludar(nombre = "", hora = 0) {
   }
 
   if (nombre) {
-    return saludo + ", " + nombre;
+    return saludo + ", " + prefijo + nombre;
   }
   return saludo;
 }
