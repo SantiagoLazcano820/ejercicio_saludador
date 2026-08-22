@@ -76,17 +76,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "231b72097e87984cf19119c99eddd8d7c2056d32",
     "author": "Santiago Lazcano Quiroga",
     "commit": {
       "date": "2026-08-22T03:16:41.000Z",
       "message": "feat:Agregar saludar por edad",
-      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/HEAD"
+      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/231b72097e87984cf19119c99eddd8d7c2056d32"
     },
     "stats": {
       "total": 18,
       "additions": 12,
       "deletions": 6,
+      "date": "2026-08-22"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Santiago Lazcano Quiroga",
+    "commit": {
+      "date": "2026-08-22T04:12:02.000Z",
+      "message": "feat:Agregar saludar en español",
+      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 5,
+      "deletions": 2,
       "date": "2026-08-22"
     },
     "coverage": 0,
