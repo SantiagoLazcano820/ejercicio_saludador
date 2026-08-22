@@ -1,10 +1,12 @@
-function saludar(nombre = "", hora = 0, genero = "") {
+function saludar(nombre = "", hora = 0, genero = "", edad = 0) {
   let prefijo = "";
   const generoMayuscula = genero.toUpperCase();
-  if (generoMayuscula === "M") {
-    prefijo = "Sr. ";
-  } else if (generoMayuscula === "F") {
-    prefijo = "Sra. ";
+  if (edad >= 30) {
+    if (generoMayuscula === "M") {
+      prefijo = "Sr. ";
+    } else if (generoMayuscula === "F") {
+      prefijo = "Sra. ";
+    }
   }
 
   let saludo = "Hola";
