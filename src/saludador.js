@@ -23,7 +23,7 @@ function saludar(nombre = "", hora = 0, genero = "", edad = 0, idioma = "") {
     if (nombre) {
       return saludo + ", " + prefijo + nombre;
     }
-    return saludo;  
+    return saludo + ", Visitor.";  
   }
   
   let prefijo = "";
@@ -47,7 +47,7 @@ function saludar(nombre = "", hora = 0, genero = "", edad = 0, idioma = "") {
   if (nombre) {
     return saludo + ", " + prefijo + nombre;
   }
-  return saludo;
+  return saludo + ", Visitante.";
 }
 
 export default saludar;

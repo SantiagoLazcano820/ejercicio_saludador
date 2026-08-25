@@ -114,18 +114,37 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "3c9f218e0eda337c0ea7c99c5ae0e2b2729a2c5b",
     "author": "Santiago Lazcano Quiroga",
     "commit": {
       "date": "2026-08-22T04:50:56.000Z",
       "message": "feat:Agregar saludar en ingles",
-      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/HEAD"
+      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/3c9f218e0eda337c0ea7c99c5ae0e2b2729a2c5b"
     },
     "stats": {
       "total": 28,
       "additions": 27,
       "deletions": 1,
       "date": "2026-08-22"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Santiago Lazcano Quiroga",
+    "commit": {
+      "date": "2026-08-25T13:23:02.000Z",
+      "message": "feat: Agregar saludo por defecto",
+      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 4,
+      "additions": 2,
+      "deletions": 2,
+      "date": "2026-08-25"
     },
     "coverage": 0,
     "test_count": 0,
