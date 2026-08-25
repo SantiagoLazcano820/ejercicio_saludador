@@ -133,17 +133,36 @@
     "conclusion": "neutral"
   },
   {
-    "sha": "HEAD",
+    "sha": "ae019210a3b24553e64c6ed537b6b1b44b5c66c0",
     "author": "Santiago Lazcano Quiroga",
     "commit": {
       "date": "2026-08-25T13:23:02.000Z",
       "message": "feat: Agregar saludo por defecto",
-      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/HEAD"
+      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/ae019210a3b24553e64c6ed537b6b1b44b5c66c0"
     },
     "stats": {
       "total": 4,
       "additions": 2,
       "deletions": 2,
+      "date": "2026-08-25"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Santiago Lazcano Quiroga",
+    "commit": {
+      "date": "2026-08-25T13:51:34.000Z",
+      "message": "feat: Agregar mensajes de error",
+      "url": "https://github.com/SantiagoLazcano820/ejercicio_saludador/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
       "date": "2026-08-25"
     },
     "coverage": 0,

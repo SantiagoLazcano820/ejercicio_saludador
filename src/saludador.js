@@ -1,4 +1,15 @@
 function saludar(nombre = "", hora = 0, genero = "", edad = 0, idioma = "") {
+  if (!Number.isNaN(Number(nombre.trim())) && nombre.trim() !== "") {
+    return "Dato inválido: El nombre debe ser un texto.";
+  }
+  if (!Number.isNaN(Number(genero.trim())) && genero.trim() !== "") {
+    return "Dato inválido: El genero debe ser un texto.";
+  }
+  if (!Number.isNaN(Number(idioma.trim())) && idioma.trim() !== "") {
+    return "Dato inválido: El idioma debe ser un texto.";
+  }
+  
+  
   const idiomaMayuscula = idioma.toUpperCase();
   const generoMayuscula = genero.toUpperCase();
   if (idiomaMayuscula === "ENG") {

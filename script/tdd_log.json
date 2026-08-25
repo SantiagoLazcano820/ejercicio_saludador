@@ -42,9 +42,15 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ae019210a3b24553e64c6ed537b6b1b44b5c66c0",
     "commitName": "feat: Agregar saludo por defecto",
     "commitTimestamp": 1787664182614,
     "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: Agregar mensajes de error",
+    "commitTimestamp": 1787665894256,
+    "testId": 8
   }
 ]
